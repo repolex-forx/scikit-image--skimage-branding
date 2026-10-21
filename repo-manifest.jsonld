@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/skimage-branding/commit/4265eec74b1ecd6273c27b1ca6cfecf5e1f3a3ef",
       "git:hexsha": "4265eec74b1ecd6273c27b1ca6cfecf5e1f3a3ef",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:28:40.956014+00:00"
     }
   ]
 }
