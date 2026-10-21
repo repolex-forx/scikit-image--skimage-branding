@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-image",
+  "repo": "skimage-branding",
+  "versions": [
+    {
+      "commit": "4265eec74b1ecd6273c27b1ca6cfecf5e1f3a3ef",
+      "parsed_at": "2026-10-21T03:26:39.849102+00:00",
+      "filetree": "filetree/4265eec74b1ecd6273c27b1ca6cfecf5e1f3a3ef.nq.gz",
+      "blobs": [
+        "blob/5f9f634f7fd94a58fd9bc55f788710a670733569.nq.gz",
+        "blob/b23787c8fdf09ae6b6555052e3e8ce17b1622595.nq.gz",
+        "blob/977b3266f467a649ede1cab71fb2c971c8920e07.nq.gz",
+        "blob/3ae5d0c1ba6afdacd3d7991fdfcc52d2aa9bb65b.nq.gz",
+        "blob/050ce1a692eb2369864496b4b90a666690f99c5c.nq.gz",
+        "blob/cb3c337c016fbaaf5609c96ad5b53ddd803e3d73.nq.gz",
+        "blob/72fa05086118ec2bcea9985e93dc1cdc8990919a.nq.gz",
+        "blob/1cf861bdf10b1ac3072d09b6569d4da15b5cef52.nq.gz",
+        "blob/8cd6a3ae4c72318158b387fe03c54d373bf5521d.nq.gz",
+        "blob/8025bc04008ce3548567fde9e986380c54bc33c8.nq.gz",
+        "blob/6f72eb809c491d7bfb62867dd55a3ac1094c13ba.nq.gz",
+        "blob/06f4baba4ed214d99ab029dd3a1d172e303db43d.nq.gz",
+        "blob/205e1bf4d23802df62ad410ae387755a935d4587.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
